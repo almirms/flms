@@ -5,11 +5,11 @@ $(function() {
 		reverseList: true,
 		searchSufix: "filme",
 
-		watchLabel: "Apenas assisti",
-		rewatchLabel: "Revi",
-		favoriteLabel: "Gostei bastante",
-		goodLabel: "Gostei",
-		badLabel: "Não gostei",
+		watchLabel: "apenas assisti",
+		rewatchLabel: "revi",
+		favoriteLabel: "muito daora",
+		goodLabel: "daora",
+		badLabel: "não gostei",
 
 	});
 });
