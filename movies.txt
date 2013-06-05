@@ -3,7 +3,7 @@
 +		seven psychopaths
 +		no
 ++		being elmo: a pupeteer's journey
-++		holy motors
++		holy motors
 ++		the master
 ++		punching the clown
 +		silver linings playbook
@@ -15,9 +15,9 @@
 +		the angel's share
 +		st. giuseppe moscati
 ++		a bottle in the gaza sea
-+		iron man 3
+		iron man 3
 +		savages
-+		killing them softly
+		killing them softly
 +		the deep blue sea
 +		django
 ++		indie game: the movie
