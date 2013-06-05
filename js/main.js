@@ -30,7 +30,7 @@ $(function() {
 
 			var item = $('<li></li>').attr('id', 'movie-' + n).addClass('movie');
 			item.append($('<span></span>').addClass('movie__number').text(n));
-			item.append($('<a href="https://www.google.com/search?q=' + encodeURIComponent(title) + ' ' + encodeURIComponent(config.searchSufix) + '" title="Google It!"></a>').addClass('movie__title').text(title));
+			item.append($('<a href="https://www.google.com/search?q=' + encodeURIComponent(title) + ' ' + encodeURIComponent(config.searchSufix) + '" title="google it!"></a>').addClass('movie__title').text(title));
 
 			switch(rate) {
 				case '++': movie.rate = 'fav'; movie.rate_title = config.favoriteLabel; movie.rate_icon = '&#x2606;'; break;
