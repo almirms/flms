@@ -4,7 +4,7 @@ $(function() {
 	config = {};
 
 	function printCount(count) {
-		moviesCount.text(count) -1;
+		moviesCount.text(count) ;
 	}
 
 	function buildIcon(icn,lbl,cls) {
