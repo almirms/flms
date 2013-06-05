@@ -1,4 +1,3 @@
-+		Terapia de Risco
-++		Indie Game: The Movie
-+		Amor Profundo
-
++		terapia de risco
+++		indie game: the movie
++		amor profundo
