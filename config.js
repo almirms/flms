@@ -3,7 +3,7 @@ $(function() {
 
 		moviesFile: "movies.txt",
 		reverseList: true,
-		searchSufix: "film",
+		searchSufix: "filme",
 
 		watchLabel: "Apenas assisti",
 		rewatchLabel: "Revi",
