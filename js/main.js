@@ -71,7 +71,7 @@ $(function() {
   		url: config.moviesFile,
   		cache: false,
   		success: function (data) {
-  			var movieList = data.split(/[\r\n]+/g);
+  			var movieList = data.split(/\r?\n/);
   			printList(movieList);
   			printCount(movieList.length);
   		},
