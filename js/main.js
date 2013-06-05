@@ -1,6 +1,6 @@
 $(function() {
 	var moviesList = $('.js-movies-list'),
-	moviesCount = $('.js-movies-count'),
+	moviesCount = $('.js-movies-count') - 1,
 	config = {};
 
 	function printCount(count) {
