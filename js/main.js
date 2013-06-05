@@ -73,7 +73,7 @@ $(function() {
   		success: function (data) {
   			var movieList = data.split(/\r?\n/);
   			printList(movieList);
-  			printCount(movieList.length);
+  			printCount(movieList.length - 1);
   		},
   		dataType: 'text'
   	});
