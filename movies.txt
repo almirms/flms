@@ -22,5 +22,6 @@
 +		django
 ++		indie game: the movie
 +		side effects
-+		after lucia
++		después de lucía
 +		stoker
+++	r	amores perros
