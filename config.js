@@ -5,7 +5,7 @@ $(function() {
 		reverseList: true,
 		searchSufix: "film",
 
-		watchLabel: "apenas assisti",
+		watchLabel: "oooooook",
 		rewatchLabel: "revi",
 		favoriteLabel: "muito daora",
 		goodLabel: "daora",
