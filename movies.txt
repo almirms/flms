@@ -28,3 +28,4 @@
 ++		monsters university
 		world war z
 +		despicable me 2
+		the lone ranger
